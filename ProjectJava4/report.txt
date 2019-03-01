@@ -1,0 +1,42 @@
+1. Hours to complete the project: 20-25 or more hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Board Data Type): This problem went fairly well for me in the 
+   beginning. The idea of how this 8 puzzle board works was not too
+   difficult to understand after having read through the project assignment
+   a couple of times and playing a couple of rounds of the 8 puzzle 
+   myself online. The biggest issue was solving Iterable<Board> neighbors(),
+   always messing up the directions. The biggest issue in this problem were 
+   the bugs i had to debug. This took about as much time as it did to write the 
+   code itself, checking almost each method to see where the problem is.
+   After having finished the Solver (Problem Two) It gave me more bugs
+   for this problem. Also Two String was a problem since it gave me fail
+   for the tests because of the spacing.
+
+
+   Problem 2 (Solver Data Type): Problem two went a bit quicker than
+   problem 1, but figuring out solver also took a while and all the bugs 
+   i ended up with solver(). Making the solver also made me have to go back
+   to proboem one to fix some things in order for the solver to work in
+   my problem two. and there was an issue with my isGoal.
+
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   Philipp           brother        Helped me when i got
+                                    stuck and helped me debug
+                                    the code.
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   I found this project to be a bit more difficult than the one's we have
+   had so far this semester. I was working on this project through most of 
+   spring break which was disspointing. The project was interesting but, 
+   difficult. 
