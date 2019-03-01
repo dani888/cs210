@@ -1,0 +1,38 @@
+1. Hours to complete the project: 15-20 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (WordNet Data Type): public wordNet was a bit difficult but
+   having gone to SI helped me solve that method.The program would not
+   run because i needed to do ShortestCommonAncestor in order for WordNet
+   to be able to run.
+
+   Problem 2 (ShortestCommonAncestor Data Type): This problem was also
+   a bit challenging but lots of the methods were the same just the return 
+   result was different. It took some time to understand the ancestor and
+   the length.
+
+   Problem 3 (Outcast Data Type): this was not too bad. The public String
+   outcast was a bit of a challenge but for this problem i had the least
+   errors and bugs that needed to be fixed 
+
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   Kyler Mikulski       SI instructor       Problem 1 and some of problem 2
+
+   Philipp            Brother               Helped me when i got
+                                            stuck and helped me debug
+                                            the code.        
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   This project was more straight forward, which i liked. it just took time
+   to understand how this wordnet works, the ancestor the distance ext. 
+   I enjoyed this project more than most projects we have done so far. 
