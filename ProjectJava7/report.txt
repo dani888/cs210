@@ -1,0 +1,34 @@
+1. Hours to complete the project: 15-20 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Energy Calculation): This Problem was not to bad you just had to implement 
+   the math to calculate the energy. some small errors fixed easily. Some small syntax and
+   errors
+
+   Problem 2 (Seam Identification): The vertical and horizontal seam was a bit diffuclt to
+   make but also got help from SI and friend not to many errors there.
+
+   Problem 3 (Seam Removal): removing horizontal and vertical seam methoed was not too difficult.
+   small errors and syntax 
+
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status                    Help Received
+   ----               ------                    -------------
+
+   Kyler Mikulski       SI instructor       Helped Begin java project
+
+   Justin Kwan         Student              Helped out with errors, fix code
+
+   Philipp            Brother               Helped me when i got
+                                            stuck and helped me debug
+                                            the code.    
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   most easy project we have had so far this semester.
