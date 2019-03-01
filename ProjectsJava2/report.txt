@@ -1,0 +1,40 @@
+1. Hours to complete the project: 20-25 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Deque): I had trouble understanding Node and how it works. 
+   It was diffuclt for to see what was going on in this problem.
+   There is a pointer going left(prev) and right(next). Once getting to
+   understand what the problem LinkedDeque.java wanted me to do it got a
+   lot easier. I stilldifficulty writing some of the code for some part
+   of this problem and bugs and simple mistakes. 
+
+   Problem 2 (Random Queue): ResizingRandomQueue was a bit more 
+   challenging. Again just like Problem one its all about understanding
+   what you need, to doand that took alot of time as well. The hardest 
+   part of this problem was being able to add items to the queue and 
+   removing random Index elements in thequeue.
+
+   Problem 3 (Subset): This was the most easy part, since i had already the 
+   ResizingRandomQueue.java, problem # 2 of the project.
+   I had the problem of not realizing that if my ResizingRandomQueue.java 
+   is in the same directory then i would just need
+   to call in the file without having to import or do anything special.
+   
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   Philipp            Brother          Helped me when i got
+                                       stuck and helped me debug
+                                       the code.
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   I understood this project a better than Percolation.Java but again this was 
+   another diffcult task that took a lot of time to complete.
