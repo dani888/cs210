@@ -1,0 +1,40 @@
+1. Hours to complete the project: 10-15 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Autocomplete Term): This problem was not too difficult, but
+    starting it was little difficult. The Comparator<Term> was a bit diffuclt to 
+    understand. Otherwise the rest of the probelm was not too much 
+    trouble to figure out. I learned how to different kind of (if)
+    statements in java.
+
+   Problem 2 (Binary Search Deluxe): The first and last key index was very
+   similar which was also hinted to us. I created a new method called 
+   binarySearch which goes throught the binary search once so i dont have 
+   write the same code two times for both first and last and then put this
+   method into the fist and last IndexOf. The wording of the problem was
+   a bit diffuclt to understand talking about keys as indexes. When i think
+   of key i think of a dictionary.
+
+   Problem 3 (Autocomplete): Auto complete was a bit more tricky figuring out
+   how it works and i got a lot of bugs which took some reaserch and help
+   to debug.
+   
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   Philipp           brother        Helped me when i got
+                                    stuck and helped me debug
+                                    the code.
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   This project went a bit faster to do since there was less code to write
+   and doing autocomplete was also a bit fun to do. I like this project the 
+   best out of the first 3 we have done this semester.
